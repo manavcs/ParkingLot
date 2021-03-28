@@ -12,3 +12,10 @@ C:\Users\hasher\Documents\ParkingLot\obj\Debug\ParkingLot.csprojAssemblyReferenc
 C:\Users\hasher\Documents\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
 C:\Users\hasher\Documents\ParkingLot\obj\Debug\ParkingLot.exe
 C:\Users\hasher\Documents\ParkingLot\obj\Debug\ParkingLot.pdb
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojAssemblyReference.cache
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\hasher\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
