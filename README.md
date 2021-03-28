@@ -5,7 +5,7 @@
 1. After cloning https://github.com/manavcs/ParkingLot.git
 Go to the main ParkingLot folder
 
-2. Navigate to bin\Debug
+2. Navigate to ParkingLot\bin\Debug
 
 3. If input.txt does not exist create one and write the commands you want to test
 
