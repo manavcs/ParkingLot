@@ -15,7 +15,7 @@ Go to the main ParkingLot folder
 ### Mac and linux
 1. Download mono from https://www.mono-project.com/download/stable/
 
-2. Open a new terminal and check if mono is installed by executing mono --help. IF mono is not installed read the documentation from https://www.mono-project.com/docs/
+2. Open a new terminal and check if mono is installed by executing mono --help. If mono is not installed read the documentation from https://www.mono-project.com/docs/
 
 3. After mono is working clone https://github.com/manavcs/ParkingLot.git.
 
@@ -28,4 +28,4 @@ Go to the main ParkingLot folder
 
 1. Go to directory where you have cloned and then go to ParkingLot/bin/debug
 
-2. Edit the input.txt file to changed the input
+2. Edit the input.txt file to change the input
